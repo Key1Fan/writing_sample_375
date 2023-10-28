@@ -1,0 +1,61 @@
+location_name,geo_pop2122,Pop_2021,Pop_2022,geo_pop19,geo_gdp,pop_19,gdp_19,Province,NA_Foreign
+ALBERTA,ALBERTA,"4,466,124","4,601,314",Alberta,Alberta,"4,384,848","339,674.4",1,0
+BANCROFT_AND_AREA,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+BARRIE_AND_DISTRICT,"BARRIE (CMA), ONTARIO","221,954","228,979","Barrie, Ontario","Barrie (CMA), Ontario","214,350","8,468",0,1
+BRANTFORD_REGION,"BRANTFORD (CMA), ONTARIO","154,782","158,391","Brantford, Ontario","Brantford (CMA), Ontario","149,522","5,984",0,1
+BRITISH_COLUMBIA,BRITISH COLUMBIA,"5,238,713","5,368,266",British Columbia,British Columbia,"5,130,780","286,182.1",1,0
+CALGARY,"CALGARY (CMA), ALBERTA","1,558,588","1,608,342","Calgary, Alberta","Calgary (CMA), Alberta","1,514,426","111,259",0,0
+CAMBRIDGE,"KITCHENER - CAMBRIDGE - WATERLOO (CMA), ONTARIO","599,816","622,497","Kitchener – Cambridge – Waterloo, Ontario","Kitchener - Cambridge - Waterloo (CMA), Ontario","581,607","33,538",0,1
+CANADA,CANADA,"38,226,498","38,929,902",Canada,Canada,"37,601,230","2,161,924",0,0
+CENTRE_DU_QUEBEC,"NON-CENSUS METROPOLITAN AREAS, QUEBEC","1,618,595",1640693,"Non-census metropolitan areas, Quebec","Area outside census metropolitan areas, Quebec","1,570,498","103,003",0,1
+CHILLIWACK_AND_DISTRICT,"CHILLIWACK, BRITISH COLUMBIA","119,221","121,802","Non-census metropolitan areas, British Columbia — city of Chiliwack data","Chilliwack (CA), British Columbia","101,700","80,891",0,1
+EDMONTON,"EDMONTON (CMA), ALBERTA","1,480,159","1,516,719","Edmonton, Alberta","Edmonton (CMA), Alberta","1,442,835","91,568",0,0
+ESTRIE,"SHERBROOKE (CMA), QUEBEC","227,448","231,055","Sherbrooke, Quebec","Sherbrooke (CMA), Quebec","221,325","9,761",0,1
+FRASER_VALLEY,"ABBOTSFORD - MISSION (CMA), BRITISH COLUMBIA","205,834","208,961","Non-census metropolitan areas, British Columbia","Area outside census metropolitan areas, British Columbia","576,058","80,891",0,1
+FREDERICTON,"FREDERICTON, NEW BRUNSWICK","112,428","116,159","Non-census metropolitan areas, New Brunswick","Fredericton (CA), New Brunswick","63,116","19,826",0,1
+GREATER_MONCTON,"MONCTON (CMA), NEW BRUNSWICK","162,824","171,608","Moncton, New Brunswick","Moncton (CMA), New Brunswick","155,891","8,149",0,1
+GREATER_TORONTO,"TORONTO (CMA), ONTARIO","6,547,381","6,685,621","Toronto, Ontario","Toronto (CMA), Ontario","6,462,898","442,180",0,0
+GREATER_VANCOUVER,"VANCOUVER (CMA), BRITISH COLUMBIA","2,764,932","2,842,730","Vancouver, British Columbia","Vancouver (CMA), British Columbia","2,709,277","163,475",0,0
+GREY_BRUCE_OWEN_SOUND,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+GUELPH_AND_DISTRICT,"GUELPH (CMA), ONTARIO","169,363","172,400","Guelph, Ontario","Guelph (CMA), Ontario","165,125","10,503",0,1
+HALIFAX_DARTMOUTH,"HALIFAX (CMA), NOVA SCOTIA","459,869","480,582","Halifax, Nova Scotia","Halifax (CMA), Nova Scotia","439,835","24,098",0,0
+HAMILTON_BURLINGTON,"HAMILTON (CMA), ONTARIO","811,396","821,839","Hamilton, Ontario","Hamilton (CMA), Ontario","795,410","37,578",0,1
+HURON_PERTH,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+INTERIOR_BC,"KELOWNA, BRITISH COLUMBIA","229,003","235,473","Non-census metropolitan areas, British Columbia","Area outside census metropolitan areas, British Columbia","576,058","80,891",0,1
+KAWARTHA_LAKES,"KAWARTHA LAKES, ONTARIO","82,458","83,356","Non-census metropolitan areas, Ontario - census profile data","Kawartha Lakes (CA), Ontario","79,247","108,514",0,1
+KINGSTON_AND_AREA,"KINGSTON (CMA), ONTARIO","176,738","180,070","Kingston, Ontario","Kingston (CMA), Ontario","174,723","9,409",0,1
+KITCHENER_WATERLOO,"KITCHENER - CAMBRIDGE - WATERLOO (CMA), ONTARIO","599,816","622,497","Kitchener – Cambridge – Waterloo, Ontario","Kitchener - Cambridge - Waterloo (CMA), Ontario","581,607","33,538",0,1
+LAKELANDS,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+LONDON_ST_THOMAS,"LONDON (CMA), ONTARIO","557,394","574,238","London, Ontario","London (CMA), Ontario","542,155","28,750",0,1
+LOWER_MAINLAND,"VANCOUVER (CMA), BRITISH COLUMBIA","2,764,932","2,842,730","Non-census metropolitan areas, British Columbia","Area outside census metropolitan areas, British Columbia","576,058","80,891",0,0
+MAURICIE,"TROIS-RIVIÈRES (CMA), QUEBEC","165,037","167,732","Trois-Rivières, Quebec","Trois-Rivières (CMA), Quebec","160,902","6,823",0,1
+MISSISSAUGA,"TORONTO (CMA), ONTARIO","6,547,381","6,685,621","Toronto, Ontario","Toronto (CMA), Ontario","6,462,898","442,180",0,0
+MONTREAL_CMA,"MONTRÉAL (CMA), QUEBEC","4,340,642","4,378,796","Montréal, Quebec","Montréal (CMA), Quebec","4,334,308","233,996",0,0
+NEWFOUNDLAND_AND_LABRADOR,NEWFOUNDLAND AND LABRADOR,"521,854","528,818",Newfoundland and Labrador,Newfoundland and Labrador,"523,889","33,159.5",1,0
+NEW_BRUNSWICK,NEW BRUNSWICK,"795,851","820,786",New Brunswick,New Brunswick,"780,597","34,495.1",1,0
+NIAGARA_REGION,"ST. CATHARINES - NIAGARA (CMA), ONTARIO","441,452","450,501","St. Catharines – Niagara, Ontario","St. Catharines - Niagara (CMA), Ontario","433,955","17,272",0,1
+NORTH_BAY,"NORTH BAY, ONTARIO","74,503","77,037","Non-census metropolitan areas, Ontario","North Bay (CA), Ontario","1,450,453","108,514",0,1
+NOVA_SCOTIA,NOVA SCOTIA,"998,387","1,030,953",Nova Scotia,Nova Scotia,"976,483","42,703.5",1,0
+OAKVILLE_MILTON,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,0
+ONTARIO,ONTARIO,"14,901,607","15,262,660",Ontario,Ontario,"14,636,131","833,629",1,0
+OTTAWA,"OTTAWA - GATINEAU (CMA), ONTARIO/QUEBEC","1,474,077","1,498,610","Ottawa – Gatineau, Ontario part, Ontario/Quebec","Ottawa - Gatineau (CMA), Ontario part, Ontario","1,092,267","73,878",0,0
+PETERBOROUGH_AND_KAWARTHAS,"PETERBOROUGH (CMA), ONTARIO","132,355","135,005","Peterborough, Ontario","Peterborough (CMA), Ontario","130,993","5,163",0,1
+PRINCE_EDWARD_ISLAND,PRINCE EDWARD ISLAND,"166,435","172,707",Prince Edward Island,Prince Edward Island,"158,760","6,778",1,0
+QUEBEC,QUEBEC,"8,630,187","8,751,352",Quebec,Quebec,"8,542,964","425,277",1,0
+QUEBEC_CMA,"QUÉBEC (CMA), QUEBEC","836,615","848,776","Québec, Quebec","Québec (CMA), Quebec","825,234","48,544",0,0
+QUINTE_AND_DISTRICT,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+REGINA,"REGINA (CMA), SASKATCHEWAN","264,375","268,804","Regina, Saskatchewan","Regina (CMA), Saskatchewan","260,914","18,460",0,0
+RIDEAU_ST_LAWRENCE,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+SAINT_JOHN_NB,"SAINT JOHN (CMA), NEW BRUNSWICK","132,761","135,622","Saint John, New Brunswick","Saint John (CMA), New Brunswick","131,089","6,521",0,1
+SASKATCHEWAN,SASKATCHEWAN,"1,182,984","1,205,119",Saskatchewan,Saskatchewan,"1,176,282","79,002",1,0
+SASKATOON,"SASKATOON (CMA), SASKATCHEWAN","339,870","347,536","Saskatoon, Saskatchewan","Saskatoon (CMA), Saskatchewan","330,413","20,691",0,0
+SAULT_STE_MARIE,"SAULT STE. MARIE, ONTARIO","80,324","81,158","Non-census metropolitan areas, Ontario","Sault Ste. Marie (CA), Ontario","1,450,453","108,514",0,1
+SIMCOE_AND_DISTRICT,"AREA OUTSIDE CENSUS METROPOLITAN AREAS AND CENSUS AGGLOMERATIONS, ONTARIO","1,477,086","1,493,543","Non-census metropolitan areas, Ontario","Area outside census metropolitan areas, Ontario","1,450,453","108,514",0,1
+ST_JOHNS_NL,"ST. JOHN'S (CMA), NEWFOUNDLAND AND LABRADOR","214,267","219,119","St. John's, Newfoundland and Labrador","St. John's (CMA), Newfoundland and Labrador","213,113","13,272",0,1
+SUDBURY,"GREATER SUDBURY (CMA), ONTARIO","172,832","175,357","Greater Sudbury, Ontario","Greater Sudbury (CMA), Ontario","171,968","10,142",0,1
+TILLSONBURG_DISTRICT,"TILLSONBURG, ONTARIO","17,722","18,252","Non-census metropolitan areas, Ontario","Tillsonburg (CA), Ontario","1,450,453","108,514",0,1
+VANCOUVER_ISLAND,"VICTORIA (CMA), BRITISH COLUMBIA","413,859","423,136","Non-census metropolitan areas, British Columbia","Area outside census metropolitan areas, British Columbia","576,058","80,891",0,0
+VICTORIA,"VICTORIA (CMA), BRITISH COLUMBIA","413,859","423,136","Victoria, British Columbia","Victoria (CMA), British Columbia","403,466","22,758",0,0
+WINDSOR_ESSEX,"WINDSOR (CMA), ONTARIO","351,213","359,672","Windsor, Ontario","Windsor (CMA), Ontario","352,538","16,359",0,1
+WINNIPEG,"WINNIPEG (CMA), MANITOBA","858,848","871,778","Winnipeg, Manitoba","Winnipeg (CMA), Manitoba","844,331","46,301",0,0
+WOODSTOCK_INGERSOLL,"WOODSTOCK, ONTARIO","48,240","49,819","Non-census metropolitan areas, Ontario","Woodstock (CA), Ontario","1,450,453","108,514",0,1
